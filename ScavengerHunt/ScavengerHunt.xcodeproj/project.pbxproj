@@ -28,6 +28,7 @@
 		A7B086531BA258EB000DE495 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B086521BA258EB000DE495 /* ListViewController.swift */; };
 		A7B086551BA2723E000DE495 /* ScavengerHuntItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B086541BA2723E000DE495 /* ScavengerHuntItem.swift */; };
 		A7B086571BA281EA000DE495 /* ItemsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B086561BA281EA000DE495 /* ItemsManager.swift */; };
+		BD4843501CC6DA79000019F4 /* checkmark.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BD48434F1CC6DA79000019F4 /* checkmark.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		A7B086521BA258EB000DE495 /* ListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		A7B086541BA2723E000DE495 /* ScavengerHuntItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScavengerHuntItem.swift; sourceTree = "<group>"; };
 		A7B086561BA281EA000DE495 /* ItemsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemsManager.swift; sourceTree = "<group>"; };
+		BD48434F1CC6DA79000019F4 /* checkmark.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = checkmark.jpg; sourceTree = "<group>"; };
 		E1F4ADC9AD6A4B117FEDB2F7 /* Pods-ScavengerHunt.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScavengerHunt.release.xcconfig"; path = "Pods/Target Support Files/Pods-ScavengerHunt/Pods-ScavengerHunt.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -129,6 +131,7 @@
 		A7B0862F1BA243C2000DE495 /* ScavengerHunt */ = {
 			isa = PBXGroup;
 			children = (
+				BD48434F1CC6DA79000019F4 /* checkmark.jpg */,
 				4886F1271CC0146A006D2697 /* PPAppIcon2.png */,
 				4886F1281CC0146A006D2697 /* PPHome.png */,
 				4886F1291CC0146A006D2697 /* PPLogo.png */,
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6972B5871BD6AA2D00DC14DA /* Main.storyboard in Resources */,
+				BD4843501CC6DA79000019F4 /* checkmark.jpg in Resources */,
 				699AEE4A1BF7D29500438CC9 /* getUp.jpg in Resources */,
 				69B28BB51BF583F700471D27 /* cong.png in Resources */,
 				69B28BB31BF57D7200471D27 /* smileface.jpg in Resources */,
