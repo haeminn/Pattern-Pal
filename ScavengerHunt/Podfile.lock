@@ -1,0 +1,13 @@
+PODS:
+  - CGLMail (0.1.1)
+  - CVCalendar (1.2.9)
+
+DEPENDENCIES:
+  - CGLMail (~> 0.1)
+  - CVCalendar (~> 1.2.9)
+
+SPEC CHECKSUMS:
+  CGLMail: 91fbbf8a1c0283bb804798dce471f840b0f58488
+  CVCalendar: 0799256e0bc3b43e83b7e86c0729ce9ff0624cb6
+
+COCOAPODS: 0.39.0

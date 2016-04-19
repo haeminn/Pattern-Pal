@@ -1,0 +1,13 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "5b83b64b37b119d6d80023e87edf3da2"
+build_time: [510776183, 432320000]
+inputs:
+  "/Users/Katy/Desktop/Pattern_Pal_Child_App/ScavengerHunt/ScavengerHunt/ItemsManager.swift": [500867152, 0]
+  "/Users/Katy/Desktop/Pattern_Pal_Child_App/ScavengerHunt/ScavengerHunt/AddViewController.swift": [500866881, 0]
+  "/Users/Katy/Desktop/Pattern_Pal_Child_App/ScavengerHunt/ScavengerHunt/TastViewController.swift": [500869124, 0]
+  "/Users/Katy/Desktop/Pattern_Pal_Child_App/ScavengerHunt/ScavengerHunt/AppDelegate.swift": [500867152, 0]
+  "/Users/Katy/Desktop/Pattern_Pal_Child_App/ScavengerHunt/ScavengerHunt/ListViewController.swift": [500866881, 0]
+  "/Users/Katy/Desktop/Pattern_Pal_Child_App/ScavengerHunt/ScavengerHunt/AlarmClockViewController.swift": [500867522, 0]
+  "/Users/Katy/Desktop/Pattern_Pal_Child_App/ScavengerHunt/ScavengerHunt/main screen.swift": [500866881, 0]
+  "/Users/Katy/Desktop/Pattern_Pal_Child_App/ScavengerHunt/ScavengerHunt/ScavengerHuntItem.swift": [500866881, 0]
+  "/Users/Katy/Desktop/Pattern_Pal_Child_App/ScavengerHunt/ScavengerHunt/setting for a task view controller.swift": [500866881, 0]

@@ -1,0 +1,1 @@
+../../../CGLMail/Classes/CGLMailHelper.h

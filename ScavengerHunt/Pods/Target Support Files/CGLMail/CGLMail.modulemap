@@ -1,0 +1,6 @@
+framework module CGLMail {
+  umbrella header "CGLMail-umbrella.h"
+
+  export *
+  module * { export * }
+}

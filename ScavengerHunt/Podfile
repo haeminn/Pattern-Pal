@@ -1,0 +1,14 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+use_frameworks!
+
+target 'ScavengerHunt' do
+pod 'CVCalendar', '~> 1.2.9'
+pod 'CGLMail', '~> 0.1'
+end
+
+target 'ScavengerHuntTests' do
+
+end
+
