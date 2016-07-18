@@ -8,15 +8,15 @@ Children with autism spectrum disorder experience trouble with a wide range of t
 Our app aims to help kids with autism gain more independence. We believe that switching tasks is one of the main issues and so we decided to address this issue in our app, PatternPal. 
 
 ## Introducing PatternPal
-![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p1.PNG)
+![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p1.png)
 ##
-![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p2.PNG)
+![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p2.png)
 ##
-![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p3.PNG)
+![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p3.png)
 ##
-![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p4.PNG)
+![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p4.png)
 ##
-![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p5.PNG)
+![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p5.png)
 
 - Once the child finishes his / her current task, click the check mark to move on to the next task.
 
