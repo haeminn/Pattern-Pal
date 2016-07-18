@@ -18,8 +18,6 @@ Our app aims to help kids with autism gain more independence. We believe that sw
 ##
 ![alt tag](https://github.com/haeminn/Pattern-Pal/blob/master/p5.png)
 
-- Once the child finishes his / her current task, click the check mark to move on to the next task.
-
 
 
 ### Contact
